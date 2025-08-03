@@ -1,0 +1,150 @@
+Match ,Teams,Venue,Normalized stat score abs,Normalized stat score pure,Ent_score,Tension Score,Stat_Ent,Diff_ten_ent,Label
+UCL_SF_L1,Barcelona vs Inter,Estadi Olímpic Lluís Companys,10.212,10.212,12.5,12.5,11.356,0,Lived up to hype
+UCL_SF_L2,Inter vs Barcelona,San Siro,10.309,1.509,17.5,13.5,13.9045,4,Exceeded Expectantions
+UCL_RO16_L1,PSG vs Liverpool,Parc des Princes,12.948,12.148,3.5,8,8.224,-4.5,Major Letdown
+UCL_RO16_L2,Liverpool vs PSG ,Anfield,2.739,-2.139,8,9,5.3695,-1,Slight Letdown
+UCL_GS_,Benfica vs Barcelona,Estádio do Sport Lisboa e Benfica,11.681,-11.081,22,5,16.8405,17,Exceeded Expectantions
+UEL_QF_L2,Man United vs Lyon,Old Trafford,3.156,1.444,21.5,7.5,12.328,14,Exceeded Expectantions
+UCL_F_,PSG vs Inter,Allianz Arena,7.729,6.929,6.5,11,7.1145,-4.5,Major Letdown
+UCL_RO16_L1,Real Madrid vs Atlético Madrid,Estadio Santiago Bernabeu,3.29,3.09,4.5,14.25,3.895,-9.75,Major Letdown
+UCL_RO16_L2, Atlético Madrid vs Real Madrid,Riyadh Air Metropolitano,5.746,-0.946,8,15.25,6.873,-7.25,Major Letdown
+CUP_F_,Barcelona vs Real Madrid,Estadio de La Cartuja,6.215,4.815,20.5,17,13.3575,3.5,Exceeded Expectantions
+UCL_GS_,PSG vs Man City,Parc des Princes,7.761,7.161,9.5,6.5,8.6305,3,Exceeded Expectantions
+LEAGUE_LEAGUE_,Liverpool vs Arsenal,Anfield,2.792,-2.192,6.5,11.75,4.646,-5.25,Major Letdown
+UCL_QF_L1,Arsenal vs Real Madrid,Emirates Stadium,4.153,3.953,10.5,9.5,7.3265,1,Lived up to hype
+UCL_QF_L2,Real Madrid vs Arsenal,Estadio Santiago Bernabeu,6.848,4.748,6.5,9.5,6.674,-3,Major Letdown
+LEAGUE_F_,Barcelona vs Real Madrid,Estadi Olímpic Lluís Companys,7.482,7.082,12.5,13.5,9.991,-1,Slight Letdown
+UCL_GS_,Liverpool vs Real Madrid,Anfield,6.101,6.001,5.5,11.5,5.8005,-6,Major Letdown
+LEAGUE_LEAGUE_,Barcelona vs Valencia,Estadi Olímpic Lluís Companys,12.192,12.192,4.5,5,8.346,-0.5,Lived up to hype
+LEAGUE_LEAGUE_,Atlético Madrid vs Barcelona,Riyadh Air Metropolitano,7.37,-6.87,10,11,8.685,-1,Slight Letdown
+UCL_GS_,Barcelona vs Bayern,Estadi Olímpic Lluís Companys,4.088,-1.988,10.5,12,7.294,-1.5,Slight Letdown
+SPCUP_F_,Liverpool vs Newcastle,Wembley Stadium,7.974,2.274,5.5,11.5,6.737,-6,Major Letdown
+UCL_GS_,Leverkusen vs Sparta Praha,BayArena,10.697,10.697,2.5,3.5,6.5985,-1,Slight Letdown
+CWC_F_,Chelsea vs PSG,MetLife Stadium,6.25,-4.65,5.5,11,5.875,-5.5,Major Letdown
+UCL_SF_L1,Arsenal vs PSG,Emirates Stadium,2.346,-1.746,6,10,4.173,-4,Major Letdown
+UCL_SF_L2,PSG vs Arsenal,Parc des Princes,2.335,-0.735,8,11,5.1675,-3,Major Letdown
+UCL_GS_,Real Madrid vs Milan,Estadio Santiago Bernabeu,3.275,2.375,3.5,6.5,3.3875,-3,Major Letdown
+UECL_F_,Real Betis vs Chelsea,Stadion Miejski,6.596,-5.196,7,9.5,6.798,-2.5,Slight Letdown
+LEAGUE_LEAGUE_,Getafe vs Real Sociedad,Coliseum,4.608,4.408,1,3.5,2.804,-2.5,Slight Letdown
+LEAGUE_LEAGUE_,Arsenal vs Man City,Emirates Stadium,3.398,0.902,9,12.75,6.199,-3.75,Major Letdown
+LEAGUE_LEAGUE_,Everton vs Liverpool,Goodison Park,5.643,-3.343,10.5,12.75,8.0715,-2.25,Slight Letdown
+CUP_GS_,Arsenal vs Man United,Emirates Stadium,11.467,11.267,8,10.5,9.7335,-2.5,Slight Letdown
+CUP_F_,Crystal Palace vs Man City,Wembley Stadium,13.387,-12.387,4.5,9,8.9435,-4.5,Major Letdown
+CWC_RO16_,Man City vs Al-Hilal,Camping World Stadium,10.853,9.253,19,7,14.9265,12,Exceeded Expectantions
+LEAGUE_LEAGUE_,Crystal Palace vs Wolves,Selhurst Park,7.912,-3.812,8.5,1.5,8.206,7,Exceeded Expectantions
+CUP_SF_L1,Milan vs Inter,San Siro,5.304,-4.904,4,16.75,4.652,-12.75,Major Letdown
+CUP_SF_L2,Inter vs Milan,San Siro,3.646,2.146,6.5,17.75,5.073,-11.25,Major Letdown
+CUP_F_,Milan vs Bologna,Stadio Olimpico,2.568,-0.432,4.5,11,3.534,-6.5,Major Letdown
+UCL_SF_L1,Bayern vs Real Madrid,Allianz Arena,2.397,2.397,16,15,9.1985,1,Lived up to hype
+UCL_SF_L2,Real Madrid vs Bayern,Estadio Santiago Bernabeu,4.218,4.018,14,16,9.109,-2,Slight Letdown
+UCL_F_,Dortmund vs Real Madrid ,Wembley Stadium,2.901,-2.801,6.5,13.5,4.7005,-7,Major Letdown
+CUP_F_,Man City vs Man United,Wembley Stadium,8.919,8.319,6,17.25,7.4595,-11.25,Major Letdown
+UCL_QF_L1,Bayern vs Inter,Allianz Arena,4.327,3.927,11,10,7.6635,1,Lived up to hype
+UCL_QF_L2,Inter vs Bayern,San Siro,3.341,-2.241,12.5,11,7.9205,1.5,Lived up to hype
+LEAGUE_LEAGUE_,Espanyol vs Barcelona,RCDE Stadium,8.818,-8.518,3.5,10.75,6.159,-7.25,Major Letdown
+LEAGUE_LEAGUE_,Tottenham vs Liverpool,Tottenham Hotspur Stadium,4.679,-3.121,5.5,6.25,5.0895,-0.75,Lived up to hype
+UEL_F_,Tottenham vs Man United,San Mamés,7.692,-7.092,4.5,10,6.096,-5.5,Major Letdown
+LEAGUE_LEAGUE_,Como vs Inter,Stadio Giuseppe Sinigaglia,3.88,-2.88,2,6,2.94,-4,Major Letdown
+LEAGUE_LEAGUE_,Napoli vs Cagliari,Stadio Diego Armando Maradona,3.373,3.173,2,5.5,2.6865,-3.5,Major Letdown
+LEAGUE_LEAGUE_,Newcastle vs Liverpool,St. James' Park,2.524,-0.724,17,7.75,9.762,9.25,Exceeded Expectantions
+LEAGUE_LEAGUE_,Bayern vs Dortmund,Allianz Arena,7.547,7.147,9,11,8.2735,-2,Slight Letdown
+LEAGUE_LEAGUE_,Barcelona vs Celta Vigo,Estadi Olímpic Lluís Companys,7.403,6.203,16,6.5,11.7015,9.5,Exceeded Expectantions
+CUP_SF_L1,Barcelona vs Atlético Madrid,Estadi Olímpic Lluís Companys,7.502,7.302,14,14,10.751,0,Lived up to hype
+LEAGUE_LEAGUE_,Everton vs Ipswich Town,Goodison Park,1.704,0.004,6.5,1,4.102,5.5,Exceeded Expectantions
+WC_QF_,Netherlands vs Argentina,Lusail Stadium,3.732,-2.068,16,13,9.866,3,Exceeded Expectantions
+WC_F_,Argentina vs France,Lusail Stadium,4.603,3.503,27,13.5,15.8015,13.5,Exceeded Expectantions
+UCL_QF_L1,Barcelona vs Dortmund,Estadi Olímpic Lluís Companys,6.18,5.98,6.5,8,6.34,-1.5,Slight Letdown
+UCL_QF_L2,Dortmund vs Barcelona,Signul Iduna Park,4.186,2.314,9,9,6.593,0,Lived up to hype
+UCL_GS_,Dortmund vs Barcelona,Signul Iduna Park,4.48,-4.48,16.5,4.5,10.49,12,Exceeded Expectantions
+UCL_PL_L1,Man City vs Real Madrid,Etihad Stadium,4.573,-1.327,17.5,12,11.0365,5.5,Exceeded Expectantions
+UCL_PL_L2,Real Madrid vs Man City ,Estadio Santiago Bernabeu,2.296,1.004,7,14,4.648,-7,Major Letdown
+LEAGUE_LEAGUE_,Man City vs Liverpool,Etihad Stadium,6.401,6.001,2,10.75,4.2005,-8.75,Major Letdown
+LEAGUE_LEAGUE_,Liverpool vs Man United,Anfield,3.094,2.794,11.5,11,7.297,0.5,Lived up to hype
+UEL_SF_L1,Athletic Club vs Man United,San Mamés,7.705,-6.905,6,7,6.8525,-1,Slight Letdown
+UEL_SF_L2,Man United vs Athletic Club,Old Trafford,2.764,0.364,13.5,8,8.132,5.5,Exceeded Expectantions
+UECL_SF_L1,Real Betis vs Fiorentina,Benito Villamarín,3.883,1.017,3.5,6,3.6915,-2.5,Slight Letdown
+UECL_SF_L2,Fiorentina vs Real Betis,Stadio Artemio Franchi,4.078,-0.222,16.5,8,10.289,8.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Chelsea vs Liverpool,Stamford Bridge,6.477,-1.977,6,8.5,6.2385,-2.5,Slight Letdown
+LEAGUE_LEAGUE_,Arsenal vs Tottenham,Emirates Stadium,5.1,3.9,6,11.25,5.55,-5.25,Major Letdown
+LEAGUE_LEAGUE_,Real Madrid vs Barcelona,Estadio Santiago Bernabeu,5.52,-4.22,7.5,10.75,6.51,-3.25,Major Letdown
+UCL_GS_,Atlético Madrid vs Leverkusen,Riyadh Air Metropolitano,7.434,-6.434,11,4.5,9.217,6.5,Exceeded Expectantions
+UCL_GS_,Man City vs Feyenoord,Etihad Stadium,6.706,6.206,12,2.5,9.353,9.5,Exceeded Expectantions
+UCL_GS_,Liverpool vs Leverkusen,Anfield,4.513,4.287,10,4.5,7.2565,5.5,Exceeded Expectantions
+UCL_GS_,Juventus vs PSV,Allianz Stadium,1.673,-1.273,4.5,3,3.0865,1.5,Lived up to hype
+UCL_GS_,Milan vs Liverpool,San Siro,5.106,-4.894,7,9,6.053,-2,Slight Letdown
+UCL_GS_,Monaco vs Barcelona,Stade Louis II,6.62,5.42,7,3,6.81,4,Exceeded Expectantions
+LEAGUE_LEAGUE_,Man City vs Aston Villa,Old Trafford,10.413,10.013,7.5,3.5,8.9565,4,Exceeded Expectantions
+LEAGUE_LEAGUE_,Liverpool vs Crystal Palace,Anfield,7.387,5.987,6.5,3,6.9435,3.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Leicester City vs Southampton,King Power Stadium,2.763,2.537,2,0.5,2.3815,1.5,Lived up to hype
+UCL_QF_L1,PSG vs Aston Villa,Parc des Princes,11.842,11.642,9.5,7.5,10.671,2,Exceeded Expectantions
+UCL_QF_L2,Aston Villa vs PSG,Villa Park,5.634,-3.834,8,8.5,6.817,-0.5,Lived up to hype
+LEAGUE_LEAGUE_,Villareal vs Sevilla,Estadio de la Ceramica,1.475,0.525,4.5,2.5,2.9875,2,Exceeded Expectantions
+LEAGUE_LEAGUE_,Valencia vs Getafe,Mestalla,5.433,4.933,4,2,4.7165,2,Exceeded Expectantions
+LEAGUE_LEAGUE_,Napoli vs Inter,Stadio Diego Armando Maradona,6.3,5.1,8.5,12.5,7.4,-4,Major Letdown
+LEAGUE_LEAGUE_,Inter vs Napoli,San Siro,2.876,2.276,5,12.5,3.938,-7.5,Major Letdown
+UEL_F_,Atalanta vs Leverkusen,Aviva Stadium,4.942,-1.842,7,9,5.971,-2,Slight Letdown
+LEAGUE_LEAGUE_,NY Red Bulls vs Inter Miami,Red Bull Arena,5.107,-4.507,8,3.25,6.5535,4.75,Exceeded Expectantions
+LEAGUE_LEAGUE_,LAFC vs LA Galaxy,BMO Stadium,4.87,-3.17,9.5,6.25,7.185,3.25,Exceeded Expectantions
+LEAGUE_LEAGUE_,Atlético Madrid vs Real Betis,Riyadh Air Metropolitano,4.229,0.971,15,5,9.6145,10,Exceeded Expectantions
+LEAGUE_LEAGUE_,Atlético Madrid vs Real Madrid,Riyadh Air Metropolitano,1.254,0.054,6.5,12.5,3.877,-6,Major Letdown
+LEAGUE_LEAGUE_,Real Madrid vs Atlético Madrid,Estadio Santiago Bernabeu,6.18,5.88,7,13.75,6.59,-6.75,Major Letdown
+UCL_QF_L1,PSG vs Barcelona,Parc des Princes,3.119,2.719,13,13,8.0595,0,Lived up to hype
+UCL_QF_L2,Barcelona vs PSG,Estadi Olímpic Lluís Companys,8.471,-8.271,11.5,15,9.9855,-3.5,Major Letdown
+UCL_QF_L1,Real Madrid vs Man City ,Estadio Santiago Bernabeu,3.264,-2.264,16.5,14,9.882,2.5,Exceeded Expectantions
+UCL_QF_L2,Man City vs Real Madrid,Etihad Stadium,10.713,10.513,11.5,16,11.1065,-4.5,Major Letdown
+CUP_SF_L1,Real Sociedad vs Real Madrid,Anoeta,2.066,0.966,4,10,3.033,-6,Major Letdown
+CUP_SF_L2,Real Madrid vs Real Sociedad,Estadio Santiago Bernabeu,7.013,5.113,25,12,16.0065,13,Exceeded Expectantions
+LEAGUE_LEAGUE_,Tottenham vs Man City,Tottenham Hotspur Stadium,2.3,1,3.5,7.5,2.9,-4,Major Letdown
+UCL_GS_,Sporting vs Man City ,Estadio Jose Alvalade,8.555,-7.355,16,4.5,12.2775,11.5,Exceeded Expectantions
+UEL_PL_L1,Barcelona vs Man United,Camp Nou,3.561,3.361,11,10.5,7.2805,0.5,Lived up to hype
+UEL_PL_L2,Man United vs Barcelona ,Old Trafford,3.374,-0.174,7.5,12.5,5.437,-5,Major Letdown
+LEAGUE_LEAGUE_,Celta Vigo vs Sevilla,Balaídos,4.46,-2.84,10,4.5,7.23,5.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Real Betis vs Sevilla,Benito Villamarín,3.658,2.458,6,8.25,4.829,-2.25,Slight Letdown
+LEAGUE_LEAGUE_,Crystal Palace vs Brighton,Selhurst Park,5.367,-4.967,6,1.5,5.6835,4.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Man City vs Chelsea,Etihad Stadium,3.842,2.742,6.5,9,5.171,-2.5,Slight Letdown
+LEAGUE_LEAGUE_,Leicester City vs Tottenham,King Power Stadium,8.596,-8596,5,5,6.798,0,Lived up to hype
+LEAGUE_LEAGUE_,Barcelona vs Real Betis,Estadi Olímpic Lluís Companys,9.724,9.524,5,6,7.362,-1,Slight Letdown
+LEAGUE_LEAGUE_,Getafe vs Atlético Madrid,Coliseum,5.946,-2.446,11,2.5,8.473,8.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Real Betis vs Alavés,Benito Villamarín,2.265,-1.635,14.5,2.5,8.3825,12,Exceeded Expectantions
+LEAGUE_LEAGUE_,Ipswich Town vs Wolves,Portman Road,5.784,-5.784,7.5,1.5,6.642,6,Exceeded Expectantions
+LEAGUE_LEAGUE_,Tottenham vs Brighton,Tottenham Hotspur Stadium,8.774,-8.974,12,2.5,10.387,9.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Juventus vs Empoli,Allianz Stadium,5.976,5.976,12,1.5,8.988,10.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Milan vs Atalanta,San Siro,1.842,-0.642,2,8.5,1.921,-6.5,Major Letdown
+UCL_GS_,Celtic vs Bayern,Celtic Park,3.114,-2.514,6.5,3,4.807,3.5,Exceeded Expectantions
+UCL_GS_,Crvena zvezda vs PSV,Red Star Stadium,4.199,3.799,5.5,1.5,4.8495,4,Exceeded Expectantions
+UCL_GS_,Dinamo Zagreb vs Monaco,Stadion Maksimir,4.702,-4.702,8.5,1.25,6.601,7.25,Exceeded Expectantions
+EURO_F_,Spain vs England,Olympiastadion Berlin,6.601,6.401,11,12.5,8.8005,-1.5,Slight Letdown
+EURO_SF_,Spain vs Germany,MHPArena,2.712,-1.112,15,11.5,8.856,3.5,Exceeded Expectantions
+EURO_SF_,Netherlands vs England,Signul Iduna Park,3.975,-2.575,12.5,11.5,8.2375,1,Lived up to hype
+COPA_F_,Argentina vs Colombia,Hard Rock Stadium,4.078,-3.078,8.5,12.5,6.289,-4,Major Letdown
+COPA_F_,Argentina vs Brazil,Maracanã,4.793,-3.993,5.5,15,5.1465,-9.5,Major Letdown
+WCQ_GS_,Argentina vs Brazil,Estadio Mâs Monumental,5.101,4.401,2.5,10,3.8005,-7.5,Major Letdown
+LEAGUE_LEAGUE_,Inter Miami vs Cincinnati,Chase Stadium,3.91,3.31,1,8,2.455,-7,Major Letdown
+EURO_F_,Italy vs England,Wembley Stadium,8.595,6.794,11.5,13,10.0475,-1.5,Slight Letdown
+EURO_SF_,Italy vs Spain,Wembley Stadium,8.771,-8.771,12.5,12,10.6355,0.5,Lived up to hype
+EURO_SF_,England vs Denmark,Wembley Stadium,6.894,5.794,14,7.5,10.447,6.5,Exceeded Expectantions
+LEAGUE_LEAGUE_,Everton vs Tottenham,Goodison Park,4.386,-3.886,5,3,4.693,2,Exceeded Expectantions
+LEAGUE_LEAGUE_,Man City vs Arsenal,Etihad Stadium,14.747,14.447,10.5,11.5,12.6235,-1,Slight Letdown
+UCL_GS_,Barcelona vs Brest,Estadi Olímpic Lluís Companys,13.539,12.439,6.5,2.5,10.0195,4,Exceeded Expectantions
+UCL_GS_,Man City vs Inter,Etihad Stadium,4.664,4.464,6.5,7,5.582,-0.5,Lived up to hype
+UCL_GS_,PSV vs Liverpool,Phillips Stadion,2.312,1.712,12,3.5,7.156,8.5,Exceeded Expectantions
+EURO_QF_,Spain vs Germany,MHPArena,2.712,-1.112,11.5,11.5,7.106,0,Lived up to hype
+EURO_QF_,Netherlands vs Türkiye,Olympiastadion Berlin,4.925,2.325,10,6.5,7.4625,3.5,Exceeded Expectantions
+EURO_QF_,England vs Switzerland,merkur spiel arena,3.47,1.447,12,6.5,7.735,5.5,Exceeded Expectantions
+EURO_QF_,Portugal vs France,Volksparkstadion,4.133,1.733,6.5,10.5,5.3165,-4,Major Letdown
+EURO_RO16_,France vs Belgium,merkur spiel arena,4.313,3.613,4.5,9.5,4.4065,-5,Major Letdown
+EURO_RO16_,Switzerland vs Italy,Olympiastadion Berlin,2.957,1.743,4,4.5,3.4785,-0.5,Lived up to hype
+EURO_RO16_,England vs Slovakia,Veltins-Arena,5.536,4.436,12.5,4.5,9.018,8,Exceeded Expectantions
+EURO_RO16_,Spain vs Georgia,RheinEnergieStadion,15.879,15.279,9.5,4.5,12.6895,5,Exceeded Expectantions
+EURO_RO16_,Portugal vs Slovenia,Deutsche Bank Park,11.465,10.465,10,4.5,10.7325,5.5,Exceeded Expectantions
+EURO_RO16_,Romania vs Netherlands,Allianz Arena,9.429,-8.629,10.5,4.5,9.9645,6,Exceeded Expectantions
+EURO_RO16_,Austria vs Türkiye,Red Bull Arena Leipzig,6.285,5.885,9,2.5,7.6425,6.5,Exceeded Expectantions
+COPA_SF_,Argentina vs Canada,MetLife Stadium,2.02,0.2,5,9.5,3.51,-4.5,Major Letdown
+COPA_SF_,Uruguay vs Colombia,Bank of America Stadium,4.501,2.901,5,12.5,4.7505,-7.5,Major Letdown
+COPA_QF_,Argentina vs Ecuador,NRG Stadium,0.78,-0.12,12,8,6.39,4,Exceeded Expectantions
+COPA_QF_,Venezuela vs Canada,AT&T Stadium,3.433,0.133,10.5,5,6.9665,5.5,Exceeded Expectantions
+COPA_QF_,Colombia vs Panama,State Farm Stadium,3.22,0.226,8,5,5.61,3,Exceeded Expectantions
+COPA_QF_,Uruguay vs Brazil,Allegiant Stadium,5.035,-2.035,6.5,12.5,5.7675,-6,Major Letdown
+COPA_SF_,Brazil vs Peru,Olympic Stadium,4.806,4.406,5,6.5,4.903,-1.5,Slight Letdown
+COPA_SF_,Argentina vs Colombia,Arena BRB Mané Garrincha,1.504,0.096,11,11.5,6.252,-0.5,Lived up to hype
+COPA_QF_,Peru vs Paraguay,Estadio Olimpico Pedro Ludovico,3.534,1.434,21.5,6.5,12.517,15,Exceeded Expectantions

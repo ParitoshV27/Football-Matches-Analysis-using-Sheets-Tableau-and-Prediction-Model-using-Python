@@ -1,0 +1,150 @@
+Match ,Teams,Rivalry,Rivalry Weight,Derby,Derby Weight,Stage,Stage Weight,Star Players,Star Players Weight,H2H History,H2H History Weight,Team,Team Weight,Title Race Impact,Title Race Impact,Past KO Encounters,Past KO Encounters Weight,Leg 2 ,Leg 2 Weight,Decided,Decided Weight,Current Form,Current Form Weight,Tension Score,Label
+UCL_SF_L1,Barcelona vs Inter,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,No,0,No,1,Both Hot,2,13.5,Ultra Hyped
+UCL_SF_L2,Inter vs Barcelona,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,Yes,1,No,1,Both Hot,2,14.5,Ultra Hyped
+UCL_RO16_L1,PSG vs Liverpool,Low,0,No,0,RO16,2,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,8,Neutral
+UCL_RO16_L2,Liverpool vs PSG ,Low,0,No,0,RO16,2,High,1,Rare,0,Both Strong,2,No,0,No,0,Yes,1,No,1,Both Hot,2,9,Neutral
+UCL_GS_,Benfica vs Barcelona,Low,0,No,0,GS,0,High,1,Neutral,0.5,One Strong,1,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,5,Low Tension
+UEL_QF_L2,Man United vs Lyon,Low,0,No,0,QF,3,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,Yes,1,No,1,One Hot,1,7.5,Neutral
+UCL_F_,PSG vs Inter,Low,0,No,0,F,5,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,11,Hyped
+UCL_RO16_L1,Real Madrid vs Atlético Madrid,Medium,1,Yes,1.5,RO16,2,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,No,1,Both Hot,2,14.25,Ultra Hyped
+UCL_RO16_L2, Atlético Madrid vs Real Madrid,Medium,1,Yes,1.5,RO16,2,High,1,Hot,1,Both Strong,2,No,0,Yes,1,Yes,1,No,1,Both Hot,2,15.25,Ultra Hyped
+CUP_F_,Barcelona vs Real Madrid,High,2,No,0,F,5,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,No,1,Both Hot,2,17,Ultra Hyped
+UCL_GS_,PSG vs Man City,Low,0,No,0,GS,0,High,1,Rare,0,Both Strong,2,No,0,Yes,1,No,0,No,1,One Hot-Medium,1.5,6.5,Low Tension
+LEAGUE_LEAGUE_,Liverpool vs Arsenal,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,11,Hyped
+UCL_QF_L1,Arsenal vs Real Madrid,Low,0,No,0,QF,3,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,9.5,Neutral
+UCL_QF_L2,Real Madrid vs Arsenal,Low,0,No,0,QF,3,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,Yes,1,Yes,0,Both Hot,2,9.5,Neutral
+LEAGUE_LEAGUE_,Barcelona vs Real Madrid,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,Yes,1,No,0,No,1,Both Hot,2,13.5,Ultra Hyped
+UCL_GS_,Liverpool vs Real Madrid,High,2,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,No,1,One Hot-Medium,1.5,11.5,Hyped
+LEAGUE_LEAGUE_,Barcelona vs Valencia,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong,1,Yes,1,No,0,No,0,No,1,One Hot,1,5,Low Tension
+LEAGUE_LEAGUE_,Atlético Madrid vs Barcelona,Medium,1,No,0,LEAGUE,0,High,1,Neutral,0.5,Both Strong,2,Yes,1,Yes,1,No,0,No,1,Both Hot,2,11,Hyped
+UCL_GS_,Barcelona vs Bayern,High,2,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,No,1,Both Hot,2,12,Hyped
+SPCUP_F_,Liverpool vs Newcastle,Medium,1,No,0,F,5,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,No,1,Both Hot,2,11.5,Hyped
+UCL_GS_,Leverkusen vs Sparta Praha,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Decent,0.5,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,3.5,Dead Fixture
+CWC_F_,Chelsea vs PSG,Low,0,No,0,F,5,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,11,Hyped
+UCL_SF_L1,Arsenal vs PSG,Low,0,No,0,SF,4,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,10,Hyped
+UCL_SF_L2,PSG vs Arsenal,Low,0,No,0,SF,4,High,1,Rare,0,Both Strong,2,No,0,No,0,Yes,1,No,1,Both Hot,2,11,Hyped
+UCL_GS_,Real Madrid vs Milan,Medium,1,No,0,GS,0,Medium,0.5,Rare,0,Both Strong,2,No,0,No,0,No,0,No,1,One Hot,1,6.5,Low Tension
+UECL_F_,Real Betis vs Chelsea,Low,0,No,0,F,5,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,No,1,Both Hot,2,9.5,Neutral
+LEAGUE_LEAGUE_,Getafe vs Real Sociedad,Medium,1,No,0,LEAGUE,0,Low,0,Neutral,0.5,Both Weak,0,No,0,No,0,No,0,No,1,Both Cold,0,3.5,Dead Fixture
+LEAGUE_LEAGUE_,Arsenal vs Man City,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,Yes,1,No,0,No,1,Both Hot,2,13.5,Ultra Hyped
+LEAGUE_LEAGUE_,Everton vs Liverpool,High,2,Yes,1.5,LEAGUE,0,Medium,0.5,Hot,1,One Strong,1,Yes,1,No,0,No,0,No,1,One Hot-Medium,1.5,12.75,Hyped
+CUP_GS_,Arsenal vs Man United,High,2,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,10.5,Hyped
+CUP_F_,Crystal Palace vs Man City,Low,0,No,0,F,5,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,9,Neutral
+CWC_RO16_,Man City vs Al-Hilal,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,No,1,Both Hot,2,7,Neutral
+LEAGUE_LEAGUE_,Crystal Palace vs Wolves,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,Both Weak,0,No,0,No,0,No,0,No,1,Both Cold,0,1.5,Dead Fixture
+CUP_SF_L1,Milan vs Inter,High,2,Yes,1.5,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,16.75,Ultra Hyped
+CUP_SF_L2,Inter vs Milan,High,2,Yes,1.5,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,Yes,1,No,1,One Hot-Medium,1.5,17.75,Ultra Hyped
+CUP_F_,Milan vs Bologna,Medium,1,No,0,F,5,Medium,0.5,Neutral,0.5,One Strong,1,No,0,No,0,No,0,No,1,One Hot,1,11,Hyped
+UCL_SF_L1,Bayern vs Real Madrid,High,2,No,0,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,15,Ultra Hyped
+UCL_SF_L2,Real Madrid vs Bayern,High,2,No,0,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,Yes,1,No,1,Both Hot,2,16,Ultra Hyped
+UCL_F_,Dortmund vs Real Madrid ,Medium,1,No,0,F,5,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,13.5,Ultra Hyped
+CUP_F_,Man City vs Man United,High,2,Yes,1.5,F,5,High,1,Hot,1,One Strong-Decent,1.5,No,0,No,0,No,0,No,1,One Hot-Medium,1.5,17.25,Ultra Hyped
+UCL_QF_L1,Bayern vs Inter,Low,0,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,No,1,Both Hot,2,10,Hyped
+UCL_QF_L2,Inter vs Bayern,Low,0,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,No,0,Yes,1,No,1,Both Hot,2,11,Hyped
+LEAGUE_LEAGUE_,Espanyol vs Barcelona,High,2,Yes,1.5,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong,1,Yes,1,No,0,No,0,NA,0,One Hot,1,10.75,Hyped
+LEAGUE_LEAGUE_,Tottenham vs Liverpool,Medium,1,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,Yes,1,No,0,No,0,NA,0,One Hot,1,7,Neutral
+UEL_F_,Tottenham vs Man United,Medium,1,No,0,F,5,Medium,0.5,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,10,Hyped
+LEAGUE_LEAGUE_,Como vs Inter,Low,0,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong,1,Yes,1,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+LEAGUE_LEAGUE_,Napoli vs Cagliari,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong,1,Yes,1,No,0,No,0,NA,0,One Hot,1,4,Low Tension
+LEAGUE_LEAGUE_,Newcastle vs Liverpool,Medium,1,No,0,LEAGUE,0,High,1,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,7,Neutral
+LEAGUE_LEAGUE_,Bayern vs Dortmund,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,One Hot-Medium,1.5,11,Hyped
+LEAGUE_LEAGUE_,Barcelona vs  Celta Vigo,Medium,1,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong,1,Yes,1,No,0,No,0,NA,0,One Hot,1,6.5,Low Tension
+CUP_SF_L1,Barcelona vs Atlético Madrid,High,2,No,0,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,14,Ultra Hyped
+LEAGUE_LEAGUE_,Everton vs Ipswich Town,Low,0,No,0,LEAGUE,0,Low,0,Rare,0,One Decent,0.5,No,0,No,0,No,0,NA,0,One Medium,0.5,1,Dead Fixture
+WC_QF_,Netherlands vs Argentina,High,2,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,13,Ultra Hyped
+WC_F_,Argentina vs France,Medium,1,No,0,F,5,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,13.5,Ultra Hyped
+UCL_QF_L1,Barcelona vs Dortmund,Low,0,No,0,QF,3,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,8,Neutral
+UCL_QF_L2,Dortmund vs Barcelona,Low,0,No,0,QF,3,High,1,Rare,0,Both Strong,2,No,0,No,0,Yes,1,Yes,0,Both Hot,2,9,Neutral
+UCL_GS_,Dortmund vs Barcelona,Low,0,No,0,GS,0,High,1,Rare,0,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,4.5,Low Tension
+UCL_PL_L1,Man City vs Real Madrid,High,2,No,0,PL,1,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,12,Hyped
+UCL_PL_L2,Real Madrid vs Man City ,High,2,No,0,PL,1,High,1,Hot,1,Both Strong,2,No,0,Yes,1,Yes,1,No,1,Both Hot,2,14,Ultra Hyped
+LEAGUE_LEAGUE_,Man City vs Liverpool,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+LEAGUE_LEAGUE_,Liverpool vs Man United,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,One Hot-Medium,1.5,11,Hyped
+UEL_SF_L1,Athletic Club vs Man United,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,7,Neutral
+UEL_SF_L2,Man United vs Athletic Club,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,Yes,1,Yes,0,One Hot,1,8,Neutral
+UECL_SF_L1,Real Betis vs Fiorentina,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Decent,0.5,No,0,No,0,No,0,NA,0,One Hot,1,6,Low Tension
+UECL_SF_L2,Fiorentina vs Real Betis,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Decent,0.5,No,0,No,0,Yes,1,No,1,One Hot,1,8,Neutral
+LEAGUE_LEAGUE_,Chelsea vs Liverpool,Medium,1,No,0,LEAGUE,0,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,8.5,Neutral
+LEAGUE_LEAGUE_,Arsenal vs Tottenham,High,2,Yes,1.5,LEAGUE,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot,1,11.25,Hyped
+LEAGUE_LEAGUE_,Real Madrid vs Barcelona,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+UCL_GS_, Atlético Madrid vs Leverkusen,Low,0,No,0,GS,0,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,4.5,Low Tension
+UCL_GS_,Man City vs Feyenoord,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+UCL_GS_,Liverpool vs Leverkusen,Low,0,No,0,GS,0,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,4.5,Low Tension
+UCL_GS_,Juventus vs PSV,Low,0,No,0,GS,0,Low,0,Rare,0,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot,1,3,Dead Fixture
+UCL_GS_,Milan vs Liverpool,High,2,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot,1,9,Neutral
+UCL_GS_,Monaco vs Barcelona,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,3,Dead Fixture
+LEAGUE_LEAGUE_,Man City vs Aston Villa,Low,0,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,3.5,Dead Fixture
+LEAGUE_LEAGUE_,Liverpool vs Crystal Palace,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,3,Dead Fixture
+LEAGUE_LEAGUE_,Leicester City vs Southampton,Low,0,No,0,LEAGUE,0,Low,0,Rare,0,One Decent,0.5,No,0,No,0,No,0,NA,0,Both Cold,0,0.5,Dead Fixture
+UCL_QF_L1,PSG vs Aston Villa,Low,0,No,0,QF,3,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,7.5,Neutral
+UCL_QF_L2,Aston Villa vs PSG,Low,0,No,0,QF,3,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,Yes,1,Yes,0,Both Hot,2,8.5,Neutral
+LEAGUE_LEAGUE_,Villareal vs Sevilla,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+LEAGUE_LEAGUE_,Valencia vs Getafe,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Medium,0.5,2,Dead Fixture
+LEAGUE_LEAGUE_,Napoli vs Inter,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,Yes,1,No,0,NA,0,Both Hot,2,12.5,Hyped
+LEAGUE_LEAGUE_,Inter vs Napoli,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,Yes,1,No,0,NA,0,Both Hot,2,12.5,Hyped
+UEL_F_,Atalanta vs Leverkusen,Low,0,No,0,F,5,High,1,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,Both Hot,2,9,Neutral
+LEAGUE_LEAGUE_,NY Red Bulls vs Inter Miami,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Decent,0.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,2.5,Dead Fixture
+LEAGUE_LEAGUE_,LAFC vs LA Galaxy,Medium,1,Yes,1.5,LEAGUE,0,Low,0,Neutral,0.5,One Decent,0.5,No,0,No,0,No,0,NA,0,One Hot,1,6.25,Low Tension
+LEAGUE_LEAGUE_,Atlético Madrid vs Real Betis,Low,0,No,0,LEAGUE,0,High,1,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,5,Low Tension
+LEAGUE_LEAGUE_,Atlético Madrid vs Real Madrid,High,2,Yes,1.5,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,One Hot-Medium,1.5,13.25,Ultra Hyped
+LEAGUE_LEAGUE_,Real Madrid vs Atlético Madrid,High,2,Yes,1.5,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,Both Hot,2,13.75,Ultra Hyped
+UCL_QF_L1,PSG vs Barcelona,High,2,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,13,Ultra Hyped
+UCL_QF_L2,Barcelona vs PSG,High,2,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,No,0,Yes,1,No,1,Both Hot,2,15,Ultra Hyped
+UCL_QF_L1,Real Madrid vs Man City ,High,2,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,14,Ultra Hyped
+UCL_QF_L2,Man City vs Real Madrid,High,2,No,0,QF,3,High,1,Hot,1,Both Strong,2,No,0,Yes,1,Yes,1,No,1,Both Hot,2,16,Ultra Hyped
+CUP_SF_L1,Real Sociedad vs Real Madrid,Medium,1,No,0,SF,4,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,10,Hyped
+CUP_SF_L2,Real Madrid vs Real Sociedad,Medium,1,No,0,SF,4,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,Yes,1,No,1,One Hot-Medium,1.5,12,Hyped
+LEAGUE_LEAGUE_,Tottenham vs Man City,Medium,1,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,7.5,Neutral
+UCL_GS_,Sporting vs Man City ,Low,0,No,0,GS,0,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,Both Hot,2,4.5,Low Tension
+UEL_PL_L1,Barcelona vs Man United,High,2,No,0,PL,1,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,10.5,Hyped
+UEL_PL_L2,Man United vs Barcelona ,High,2,No,0,PL,1,High,1,Hot,1,Both Strong,2,No,0,No,0,Yes,1,No,1,One Hot-Medium,1.5,12.5,Hyped
+LEAGUE_LEAGUE_,Celta Vigo vs Sevilla,Medium,1,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+LEAGUE_LEAGUE_,Real Betis vs Sevilla,Medium,1,Yes,1.5,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,8.25,Neutral
+LEAGUE_LEAGUE_,Crystal Palace vs Brighton,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Decent,0.5,No,0,No,0,No,0,NA,0,One Medium,0.5,1.5,Dead Fixture
+LEAGUE_LEAGUE_,Man City vs Chelsea,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,One Hot,1,9,Neutral
+LEAGUE_LEAGUE_,Leicester City vs Tottenham,Medium,1,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,5,Low Tension
+LEAGUE_LEAGUE_,Barcelona vs Real Betis,Low,0,No,0,LEAGUE,0,High,1,Rare,0,One Strong-Decent,1.5,Yes,1,No,0,No,0,NA,0,Both Hot,2,6,Low Tension
+LEAGUE_LEAGUE_,Getafe vs Atlético Madrid,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+LEAGUE_LEAGUE_,Real Betis vs Alavés,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+LEAGUE_LEAGUE_,Ipswich Town vs Wolves,Low,0,No,0,LEAGUE,0,Low,0,Neutral,0.5,One Decent,0.5,No,0,No,0,No,0,NA,0,One Medium,0.5,1.5,Dead Fixture
+LEAGUE_LEAGUE_,Tottenham vs Brighton,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+LEAGUE_LEAGUE_,Juventus vs Empoli,Low,0,No,0,LEAGUE,0,Low,0,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Medium,0.5,1.5,Dead Fixture
+LEAGUE_LEAGUE_,Milan vs Atalanta,High,2,No,0,LEAGUE,0,High,1,Hot,1,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,8.5,Neutral
+UCL_GS_,Celtic vs Bayern,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,3,Dead Fixture
+UCL_GS_,Crvena zvezda vs PSV,Low,0,No,0,GS,0,Low,0,Rare,0,One Decent,0.5,No,0,No,0,No,0,NA,0,One Hot,1,1.5,Dead Fixture
+UCL_GS_,Crvena zvezda vs PSV,Low,0,No,0,GS,0,Low,0,Rare,0,Both Weak,0,Yes,1,No,0,No,0,NA,0,One Medium,0.5,2,Dead Fixture
+EURO_F_,Spain vs England,Medium,1,No,0,F,5,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,12.5,Hyped
+EURO_SF_,Spain vs Germany,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+EURO_SF_,Netherlands vs England,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+COPA_F_,Argentina vs Colombia,Medium,1,No,0,F,5,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,12.5,Hyped
+COPA_F_,Argentina vs Brazil,High,2,No,0,F,5,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,15,Ultra Hyped
+WCQ_GS_,Argentina vs Brazil,High,2,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,10,Hyped
+LEAGUE_LEAGUE_,Inter Miami vs Cincinnati,Medium,1,No,0,LEAGUE,0,Medium,0.5,Neutral,0.5,One Strong-Decent,1.5,Yes,1,No,0,No,0,NA,0,Both Hot,2,8,Neutral
+EURO_F_,Italy vs England,Medium,1,No,0,F,5,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,13,Ultra Hyped
+EURO_SF_,Italy vs Spain,Medium,1,No,0,SF,4,High,1,Hot,1,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,12,Hyped
+EURO_SF_,England vs Denmark,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,7.5,Neutral
+LEAGUE_LEAGUE_,Everton vs Tottenham,Low,0,No,0,LEAGUE,0,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot,1,3,Dead Fixture
+LEAGUE_LEAGUE_,Man City vs Arsenal,High,2,No,0,LEAGUE,0,High,1,Hot,1,Both Strong,2,Yes,1,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+UCL_GS_,Barcelona vs Brest,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,2.5,Dead Fixture
+UCL_GS_,Man City vs Inter,Low,0,No,0,GS,0,High,1,Hot,1,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,7,Neutral
+UCL_GS_,PSV vs Liverpool,Low,0,No,0,GS,0,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,3.5,Dead Fixture
+EURO_QF_,Spain vs Germany,Medium,1,No,0,QF,3,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,11.5,Hyped
+EURO_QF_,Netherlands vs Türkiye,Low,0,No,0,QF,3,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,6.5,Low Tension
+EURO_QF_,England vs Switzerland,Low,0,No,0,QF,3,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,No,0,No,0,NA,0,One Hot-Medium,1.5,6.5,Low Tension
+EURO_QF_,Portugal vs France,Medium,1,No,0,QF,3,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,10.5,Hyped
+EURO_RO16_,France vs Belgium,Medium,1,No,0,RO16,2,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,9.5,Neutral
+EURO_RO16_,Switzerland vs Italy,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+EURO_RO16_,England vs Slovakia,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+EURO_RO16_,Spain vs Georgia,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+EURO_RO16_,Portugal vs Slovenia,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+EURO_RO16_,Romania vs Netherlands,Low,0,No,0,RO16,2,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,4.5,Low Tension
+EURO_RO16_,Austria vs Türkiye,Low,0,No,0,RO16,2,Low,0,Rare,0,Both Weak,0,No,0,No,0,No,0,NA,0,One Medium,0.5,2.5,Dead Fixture
+COPA_SF_,Argentina vs Canada,Low,0,No,0,SF,4,High,1,Rare,0,One Strong-Decent,1.5,No,0,No,0,Yes,1,NA,0,Both Hot,2,9.5,Neutral
+COPA_SF_,Uruguay vs Colombia,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,Yes,1,No,0,NA,0,Both Hot,2,12.5,Hyped
+COPA_QF_,Argentina vs Ecuador,Low,0,No,0,QF,3,Medium,0.5,Rare,0,One Strong-Decent,1.5,No,0,Yes,1,No,0,NA,0,Both Hot,2,8,Neutral
+COPA_QF_,Venezuela vs Canada,Low,0,No,0,QF,3,Low,0,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,5,Low Tension
+COPA_QF_,Colombia vs Panama,Low,0,No,0,QF,3,Low,0,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,5,Low Tension
+COPA_QF_,Uruguay vs Brazil,High,2,No,0,QF,3,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,12.5,Hyped
+COPA_SF_,Brazil vs Peru,Low,0,No,0,SF,4,Medium,0.5,Rare,0,One Strong,1,No,0,No,0,No,0,NA,0,One Hot,1,6.5,Low Tension
+COPA_SF_,Argentina vs Colombia,Medium,1,No,0,SF,4,High,1,Neutral,0.5,Both Strong,2,No,0,No,0,No,0,NA,0,Both Hot,2,11.5,Hyped
+COPA_QF_,Peru vs Paraguay,Medium,1,No,0,QF,3,Low,0,Neutral,0.5,One Decent,0.5,No,0,No,0,No,0,NA,0,One Medium,0.5,6.5,Low Tension
